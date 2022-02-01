@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useReducer } from "react";
+
 
 function Home(props) {
   return (
